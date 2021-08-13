@@ -1,7 +1,6 @@
 <template lang="pug">
   #app
     AppMain
-
 </template>
 
 <script>
@@ -12,7 +11,6 @@ export default {
   name: 'App',
   components: {
     AppMain
-
   }
 }
 </script>
